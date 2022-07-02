@@ -4,8 +4,10 @@ const {
     getThoughtsById,
     createThoughts,
     updateThoughts,
-    deleteThoughts
-} = require('../../controllers/thoughts-controllers');
+    deleteThoughts,
+    addReaction,
+    deleteReaction
+} = require('../../controllers/thoughts-controller');
 
 router
     .route('/')
