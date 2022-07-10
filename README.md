@@ -25,8 +25,3 @@ Below is a video of the application:
   
 ## Usage
 `npm start`
-
-## Contributing
-[Liz DTullio](https://github.com/lizditullio)
-
-## Questions
