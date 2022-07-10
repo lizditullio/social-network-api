@@ -5,8 +5,9 @@
 An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
   
 Below is a video of the application:
-  
-![social-network-api](https://github.com/lizditullio/social-network-api/blob/main/assets/demo.mp4)
+
+
+The video file showing functionality of the application can be found ![here](https://github.com/lizditullio/social-network-api/blob/main/assets/demo.mp4)
 
    
 ## Table of Contents
