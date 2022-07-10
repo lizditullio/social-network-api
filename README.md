@@ -6,7 +6,7 @@ An API for a social network web application where users can share their thoughts
   
 Below is a video of the application:
   
-![social-network-api]((./assets/demo/mp4)
+![social-network-api](./assets/demo/mp4)
    
 ## Table of Contents
 - [Description](#description)
