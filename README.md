@@ -26,3 +26,13 @@ https://watch.screencastify.com/v/I6PQV395X2BYZyGYigmr
   
 ## Usage
 `npm start`
+
+  ## Contributers 
+ Liz DiTullio
+
+  ## Questions
+  
+ Find me on GitHub: [lizditullio](https://github.com/lizditullio)
+ 
+  Email me with any questions: ehditullio@gmail.com
+
