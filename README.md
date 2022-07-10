@@ -7,7 +7,7 @@ An API for a social network web application where users can share their thoughts
 Below is a video of the application:
 
 
-The video file showing functionality of the application can be found ![here](https://github.com/lizditullio/social-network-api/blob/main/assets/demo.mp4)
+The video file showing functionality of the application can be found [here](https://github.com/lizditullio/social-network-api/blob/main/assets/demo.mp4)
 
    
 ## Table of Contents
